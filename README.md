@@ -21,3 +21,7 @@ Link Trello: https://trello.com/b/oIjfeZcR/panpal-agile-sprint-board
 
 ## Link Demo
 TBA
+
+## Cod
+1. Frontend: https://github.com/annemarie04/PlanPal_Frontend
+2. Backend: https://github.com/annemarie04/PlanPal_Backend
