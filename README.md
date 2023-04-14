@@ -1,10 +1,11 @@
 # PlanPal
 ## Echipa
+**Grupa 251**
 1. Băicoianu Bianca
 2. Messner Annemarie-Beatrix
 3. Moise Alexandru
 4. Tudoroiu Simona
-**Grupa 251**
+
 
 ## Epic Story
 În cadrul aplicației, utilizatorii(studenții) pot adăuga și administra task-uri, evenimente, orarul de la facultate și deadline-uri. Acestea se vor regăsi în view-uri specifice pentru task-uri/evenimente/deadline-uri/orar, dar și în view-uri zilnice, săptămânale și lunare.
