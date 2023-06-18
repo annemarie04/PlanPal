@@ -92,3 +92,6 @@ Exemplu:
 ![2023-06-17 (9)](https://github.com/annemarie04/PlanPal/assets/95134928/c9c9361d-cc0c-4687-ac0e-df427e92b44c)
 ![2023-06-17 (10)](https://github.com/annemarie04/PlanPal/assets/95134928/a9167c72-a751-4a19-9a08-b8ca31c5627e)
 
+## Demo
+Mai jos se gaseste link-ul de youtube catre demo-ul aplicatiei:
+[Demo](https://youtu.be/dhxeRauvJbs)
