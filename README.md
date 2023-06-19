@@ -64,7 +64,8 @@ Link Miro: https://miro.com/app/board/uXjVMVVsK_s=/?share_link_id=259387136388
 Link Trello: https://trello.com/b/oIjfeZcR/panpal-agile-sprint-board
 
 ## Link Demo
-TBA
+Link de youtube cu demo-ul aplicatiei:
+[Demo](https://youtu.be/dhxeRauvJbs)
 
 ## Cod
 1. Frontend: https://github.com/annemarie04/PlanPal_Frontend
@@ -92,6 +93,4 @@ Exemplu:
 ![2023-06-17 (9)](https://github.com/annemarie04/PlanPal/assets/95134928/c9c9361d-cc0c-4687-ac0e-df427e92b44c)
 ![2023-06-17 (10)](https://github.com/annemarie04/PlanPal/assets/95134928/a9167c72-a751-4a19-9a08-b8ca31c5627e)
 
-## Demo
-In continuare este atasat un link de youtube cu demo-ul aplicatiei:
-[Demo](https://youtu.be/dhxeRauvJbs)
+
